@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```text
+Python            3 hrs 36 mins   █████████████████░░░░░░░░   68.41 %
+Docker            1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Shell Script      27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+GitIgnore file    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Text              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Log               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+```
+
 <!--END_SECTION:waka-->
